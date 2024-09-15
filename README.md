@@ -5,8 +5,8 @@ Throughout my academic journey in the Computer Information Systems and Business 
 
 ### 1. Python Programming and Data Wrangling
 Python has become one of my core strengths, serving as a powerful tool across multiple courses and applications. Skills I acquired:
-Data Analysis: several projects on my Github page demonstrate my ability to load, clean, merge, transform, and analyze data from multiple sources and formats using Pandas, as well as create insightful visualizations with Matplotlib.
-Basic machine learning: I completed several courses on datacamp.com and implemented several unsupervised and supervised machine learning algorithms using Python packages.
+Data Analysis: several projects on my Github page demonstrate my ability to [load, clean, merge, transform](https://github.com/BinWang01/CIDM6351), and analyze data from multiple sources and formats using [Pandas](https://github.com/BinWang01/BUS-INTEL---DS-SYS), as well as create insightful visualizations with Matplotlib.
+Basic [machine learning](https://github.com/BinWang01/CIDM6356): I completed several courses on datacamp.com and implemented several unsupervised and supervised machine learning algorithms using Python packages.
 To deepen my Python skills, I read several technical books and watched multiple video courses. I also practice regularly by writing Python code. 
 
 ### 2. SQL and Database Management
@@ -17,7 +17,7 @@ In the courses, I designed and implemented a relational database and created com
 I've developed strong skills in data analysis and visualization, particularly with Python, Tableau, Matplotlib, and Excel. My job uses Power BI extensively. I have applied the knowledge I learned in the program to my job and my experience reinforced my knowledge in turn. 
 
 ### 4. Web Development
-I've gained significant proficiency in HTML/CSS, JavaScript, and Django. 
+I've gained significant proficiency in [HTML/CSS](https://github.com/BinWang01/CIDM6303), JavaScript, and Django. 
 The web development [project](https://github.com/BinWang01/E-COMM-WEB-DEV-FINAL-PROJECT) in CIDM 6325 demonstrated my ability to create a full-stack web application using Django, incorporating HTML, CSS, and JavaScript for a responsive and interactive user experience.
 I also built a fraud detection website using HTML, CSS, and Alpinejs.
 I also supplemented my coursework with online courses and books.
