@@ -18,7 +18,7 @@ I've developed strong skills in data analysis and visualization, particularly wi
 
 ### 4. Web Development
 I've gained significant proficiency in HTML/CSS, JavaScript, and Django. 
-The web development project in CIDM 6325 demonstrated my ability to create a full-stack web application using Django, incorporating HTML, CSS, and JavaScript for a responsive and interactive user experience.
+The web development [project](https://github.com/BinWang01/E-COMM-WEB-DEV-FINAL-PROJECT) in CIDM 6325 demonstrated my ability to create a full-stack web application using Django, incorporating HTML, CSS, and JavaScript for a responsive and interactive user experience.
 I also built a fraud detection website using HTML, CSS, and Alpinejs.
 I also supplemented my coursework with online courses and books.
 
