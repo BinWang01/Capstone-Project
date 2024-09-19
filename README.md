@@ -25,4 +25,3 @@ This area involves a lot of statistical and machine learning modeling knowledge.
 ## Summary of Capabilities and Future Applications
 
 I have developed a strong foundation in data analytics, particularly in data wrangling (Python, SQL, Excel), visualization (Power BI, Tableau, Excel). These skills make me well-prepared for integrating complex data from multiple sources and find insights/patterns through data analysis, reporting, and dashboard creation.
-![image](https://github.com/user-attachments/assets/f8c21301-bac6-4e95-9b56-788eedf5ce9d)
