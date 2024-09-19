@@ -1,4 +1,4 @@
-# Data Analytics Skills Appraisal
+# Data Analytics Skills Assessment
 
 ## What I Know: Strongest Competencies, Skills, and Knowledge
 1.	Data wrangling using Python
