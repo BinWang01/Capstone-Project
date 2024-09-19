@@ -1,4 +1,4 @@
-# Data Management Skills Appraisal
+# Data Management Skills Assessment
 
 ## What I Know: Strongest Competencies, Skills, and Knowledge
 The skills in the Data Management domain have some overlap with the Data Analytics domain. I have two main strengths in both domains:
