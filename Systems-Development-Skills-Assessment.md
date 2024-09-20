@@ -1,7 +1,7 @@
 # Systems Development Skills Assessment
 
 ## What I Know: Strongest Competencies, Skills, and Knowledge
-1.	Frontend web development
+1.	Frontend web development\
 I’m proficient in HTML, CSS, vanilla javascript, and libraries like jQuery, Alpine.js. I took some courses on react.js and vue.js, but I haven’t used those frameworks in production projects. I have used Bootstrap in several web projects that are running in production. 
 2.	Backend web development
 I’m proficient in C#, ASP.NET Core, Blazor, PHP, and Laravel, which I used on my job and hobby to build web applications and tools. I learned Python programming in the courses I took. I find Python has very concise and clean syntax. I built a small site using Django in CIDM 6325. I think I can use Django to build larger project. There are a lot of similarities between those backend web frameworks. 
